@@ -1,23 +1,37 @@
-2022/12/12-21:53:03.150 27f4 Creating DB C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\teste-wp\tokens\play-djs\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2022/12/12-21:53:03.153 27f4 Reusing MANIFEST C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\teste-wp\tokens\play-djs\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/12-21:53:03.224 292c Level-0 table #5: started
-2022/12/12-21:53:03.226 292c Level-0 table #5: 6971 bytes OK
-2022/12/12-21:53:03.227 292c Delete type=0 #3
-2022/12/12-21:53:03.227 292c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
-2022/12/12-21:53:03.868 a24 Level-0 table #7: started
-2022/12/12-21:53:03.871 a24 Level-0 table #7: 8374 bytes OK
-2022/12/12-21:53:03.871 a24 Delete type=0 #4
-2022/12/12-21:53:03.872 a24 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
-2022/12/12-21:54:29.150 1dcc Level-0 table #9: started
-2022/12/12-21:54:29.254 1dcc Level-0 table #9: 1104414 bytes OK
-2022/12/12-21:54:29.257 1dcc Delete type=0 #6
-2022/12/12-21:54:33.454 718 Level-0 table #11: started
-2022/12/12-21:54:33.569 718 Level-0 table #11: 1133970 bytes OK
-2022/12/12-21:54:33.572 718 Delete type=0 #8
-2022/12/12-21:54:33.575 718 Compacting 2@0 + 1@1 files
-2022/12/12-21:54:33.769 718 Generated table #12@0: 46266 keys, 1441791 bytes
-2022/12/12-21:54:33.769 718 Compacted 2@0 + 1@1 files => 1441791 bytes
-2022/12/12-21:54:33.770 718 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/12/12-21:54:33.770 718 Delete type=2 #7
-2022/12/12-21:54:33.770 718 Delete type=2 #9
-2022/12/12-21:54:33.770 718 Delete type=2 #11
+2022/12/13-17:56:49.632 940 Reusing MANIFEST C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\teste-wp\tokens\play-djs\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/13-17:56:49.632 940 Recovering log #38
+2022/12/13-17:56:49.641 940 Reusing old log C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\teste-wp\tokens\play-djs\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000038.log 
+2022/12/13-17:56:49.641 940 Delete type=2 #37
+2022/12/13-17:56:50.063 2f9c Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/12/13-17:56:50.079 2f9c Level-0 table #43: started
+2022/12/13-17:56:50.085 2f9c Level-0 table #43: 82302 bytes OK
+2022/12/13-17:56:50.086 2f9c Delete type=0 #38
+2022/12/13-17:56:50.087 2f9c Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x11.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 145925 : 1
+2022/12/13-17:56:50.087 2f9c Compacting 1@0 + 1@1 files
+2022/12/13-17:56:50.155 2f9c Generated table #44@0: 40371 keys, 351009 bytes
+2022/12/13-17:56:50.155 2f9c Compacted 1@0 + 1@1 files => 351009 bytes
+2022/12/13-17:56:50.157 2f9c compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/13-17:56:50.158 2f9c Delete type=2 #43
+2022/12/13-17:56:50.159 2f9c Manual compaction at level-0 from '\x00\x11.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 145925 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/12/13-17:56:50.161 2f9c Level-0 table #46: started
+2022/12/13-17:56:50.177 2f9c Level-0 table #46: 4834 bytes OK
+2022/12/13-17:56:50.178 2f9c Delete type=2 #40
+2022/12/13-17:56:50.178 2f9c Delete type=0 #42
+2022/12/13-17:56:50.179 2f9c Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x12\x00\x00\xc8\x08\x00w\x00a\x00m\x00_\x00m\x00e\x00t\x00a' @ 148382 : 1
+2022/12/13-17:56:50.180 2f9c Compacting 1@0 + 1@1 files
+2022/12/13-17:56:50.286 2f9c Generated table #47@0: 40623 keys, 353996 bytes
+2022/12/13-17:56:50.286 2f9c Compacted 1@0 + 1@1 files => 353996 bytes
+2022/12/13-17:56:50.286 2f9c compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/13-17:56:50.287 2f9c Delete type=2 #46
+2022/12/13-17:56:50.288 2f9c Manual compaction at level-0 from '\x00\x12\x00\x00\xc8\x08\x00w\x00a\x00m\x00_\x00m\x00e\x00t\x00a' @ 148382 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/12/13-17:56:50.292 1010 Level-0 table #49: started
+2022/12/13-17:56:50.296 1010 Level-0 table #49: 15127 bytes OK
+2022/12/13-17:56:50.296 1010 Delete type=2 #44
+2022/12/13-17:56:50.297 1010 Delete type=0 #45
+2022/12/13-17:56:50.298 1010 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x06 \x03\x00\x00\x00\x00\x00\x80V@\x00\x01\x0b\x00I\x00d\x00T\x00t\x00l\x009\x000\x00D\x00a\x00y\x00s' @ 148956 : 0
+2022/12/13-17:56:50.298 1010 Compacting 1@0 + 1@1 files
+2022/12/13-17:56:50.453 1010 Generated table #50@0: 40239 keys, 330851 bytes
+2022/12/13-17:56:50.453 1010 Compacted 1@0 + 1@1 files => 330851 bytes
+2022/12/13-17:56:50.453 1010 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/13-17:56:50.454 1010 Delete type=2 #49
+2022/12/13-17:56:50.455 1010 Manual compaction at level-0 from '\x00\x0e\x06 \x03\x00\x00\x00\x00\x00\x80V@\x00\x01\x0b\x00I\x00d\x00T\x00t\x00l\x009\x000\x00D\x00a\x00y\x00s' @ 148956 : 0 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
