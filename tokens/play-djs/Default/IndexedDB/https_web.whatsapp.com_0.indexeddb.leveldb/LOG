@@ -1,0 +1,23 @@
+2022/12/12-21:53:03.150 27f4 Creating DB C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\teste-wp\tokens\play-djs\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/12/12-21:53:03.153 27f4 Reusing MANIFEST C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\teste-wp\tokens\play-djs\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/12-21:53:03.224 292c Level-0 table #5: started
+2022/12/12-21:53:03.226 292c Level-0 table #5: 6971 bytes OK
+2022/12/12-21:53:03.227 292c Delete type=0 #3
+2022/12/12-21:53:03.227 292c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/12/12-21:53:03.868 a24 Level-0 table #7: started
+2022/12/12-21:53:03.871 a24 Level-0 table #7: 8374 bytes OK
+2022/12/12-21:53:03.871 a24 Delete type=0 #4
+2022/12/12-21:53:03.872 a24 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/12/12-21:54:29.150 1dcc Level-0 table #9: started
+2022/12/12-21:54:29.254 1dcc Level-0 table #9: 1104414 bytes OK
+2022/12/12-21:54:29.257 1dcc Delete type=0 #6
+2022/12/12-21:54:33.454 718 Level-0 table #11: started
+2022/12/12-21:54:33.569 718 Level-0 table #11: 1133970 bytes OK
+2022/12/12-21:54:33.572 718 Delete type=0 #8
+2022/12/12-21:54:33.575 718 Compacting 2@0 + 1@1 files
+2022/12/12-21:54:33.769 718 Generated table #12@0: 46266 keys, 1441791 bytes
+2022/12/12-21:54:33.769 718 Compacted 2@0 + 1@1 files => 1441791 bytes
+2022/12/12-21:54:33.770 718 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/12-21:54:33.770 718 Delete type=2 #7
+2022/12/12-21:54:33.770 718 Delete type=2 #9
+2022/12/12-21:54:33.770 718 Delete type=2 #11
